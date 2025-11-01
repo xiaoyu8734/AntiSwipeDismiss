@@ -1,2 +1,4 @@
 # AntiSwipeDismiss
 使用hook system_server的方式关闭米兔5pro的右滑退出
+
+本项目不会再维护，需要的可以在release中下载
